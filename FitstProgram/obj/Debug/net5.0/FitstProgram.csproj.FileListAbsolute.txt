@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\study\C#\FitstProgram\FitstProgram\bin\Debug\net5.0\FitstProgram.exe
+C:\Users\Administrator\Desktop\study\C#\FitstProgram\FitstProgram\bin\Debug\net5.0\FitstProgram.deps.json
+C:\Users\Administrator\Desktop\study\C#\FitstProgram\FitstProgram\bin\Debug\net5.0\FitstProgram.runtimeconfig.json
+C:\Users\Administrator\Desktop\study\C#\FitstProgram\FitstProgram\bin\Debug\net5.0\FitstProgram.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\study\C#\FitstProgram\FitstProgram\bin\Debug\net5.0\FitstProgram.dll
+C:\Users\Administrator\Desktop\study\C#\FitstProgram\FitstProgram\bin\Debug\net5.0\ref\FitstProgram.dll
+C:\Users\Administrator\Desktop\study\C#\FitstProgram\FitstProgram\bin\Debug\net5.0\FitstProgram.pdb
+C:\Users\Administrator\Desktop\study\C#\FitstProgram\FitstProgram\obj\Debug\net5.0\FitstProgram.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\study\C#\FitstProgram\FitstProgram\obj\Debug\net5.0\FitstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\study\C#\FitstProgram\FitstProgram\obj\Debug\net5.0\FitstProgram.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\study\C#\FitstProgram\FitstProgram\obj\Debug\net5.0\FitstProgram.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\study\C#\FitstProgram\FitstProgram\obj\Debug\net5.0\FitstProgram.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\study\C#\FitstProgram\FitstProgram\obj\Debug\net5.0\FitstProgram.dll
+C:\Users\Administrator\Desktop\study\C#\FitstProgram\FitstProgram\obj\Debug\net5.0\ref\FitstProgram.dll
+C:\Users\Administrator\Desktop\study\C#\FitstProgram\FitstProgram\obj\Debug\net5.0\FitstProgram.pdb
+C:\Users\Administrator\Desktop\study\C#\FitstProgram\FitstProgram\obj\Debug\net5.0\FitstProgram.genruntimeconfig.cache
